@@ -1,2 +1,2 @@
-# hien
-python
+# python basic
+python for everyone
